@@ -15,7 +15,7 @@
   
   Contato:
   
-[![Linkedin Badge](https://img.shields.io/badge/-CibellyAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibellyaraujo/)](https://www.linkedin.com/in/cibellyaraujo/)
+[![Linkedin Badge](https://img.shields.io/badge/-CibellyAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibellyaraújo/)](https://www.linkedin.com/in/cibellyaraujo/)
 
  <a href = "mailto:cibelly.as@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
