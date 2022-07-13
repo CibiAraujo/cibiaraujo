@@ -16,9 +16,7 @@
   <img align="center" alt="Cibi-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Cibi-Vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div><br>
-  
-  
-  
+    
   ## Contato:
   
 [![Linkedin Badge](https://img.shields.io/badge/-CibellyAraújo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibellyaraújo/)](https://www.linkedin.com/in/cibellyaraújo/)
